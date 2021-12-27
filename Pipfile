@@ -17,6 +17,7 @@ sympy = "*"
 regex = "*"
 requests = "*"
 easing-functions = "*"
+ipycanvas = "*"
 
 [dev-packages]
 black = "==20.8b1"
